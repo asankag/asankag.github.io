@@ -1,14 +1,17 @@
 #EXTINF:-1 tvg-id="" tvg-name="Runi TV" group-title="Indian", Runi TV\
 https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr\
-\
+
 #EXTINF:-1 tvg-id="" tvg-name="CH TV" group-title="Indian", CH TV\
 https://edge4-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8\
-\
+
 #EXTINF:-1 tvg-id="" tvg-name="Hi TV" group-title="Indian", Hi TV\
 https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/index.m3u8\
-\
+
 #EXTINF:-1 tvg-id="" tvg-name="Sir TV" group-title="Indian", Sir TV\
 https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?dvr\
-\
+
 #EXTINF:-1 tvg-id="" tvg-name="Swani TV" group-title="Indian", Swani TV\
-https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr}
+https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr
+
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" channel-id="91",RTS Un
+rtp://239.186.64.5:10000
