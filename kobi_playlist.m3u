@@ -38,5 +38,5 @@ https://edge4-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD FR" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="9" channel-id="9",Disney XD HD french
 https://live20.bozztv.com/dvrfl05/gin-1tvafg/index.m3u8
 
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC XD FR" tvg-logo="https://en.wikipedia.org/wiki/BBC_World_Service#/media/File:BBC_World_Service_2022_(Boxed).svg" tvg-chno="9" channel-id="9",BBC World News
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC XD FR" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="10" channel-id="10",BBC World News
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
