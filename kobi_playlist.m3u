@@ -64,3 +64,6 @@ https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 
 #EXTINF:-1 tvg-id="Car TV" tvg-name="Car TV" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="18" channel-id="18",Car TV
 https://30a-tv.com/feeds/vidaa/cars.m3u8
+
+#EXTINF:-1 tvg-id="Derana" tvg-name="Derana NEW" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="18" channel-id="18",Derana NEW 
+https://ythls.onrender.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
