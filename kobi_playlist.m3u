@@ -1,4 +1,3 @@
-
 #EXTINF: -1 tvg-id="ts506" tvg-chno="1" tvg-logo="https://spoo.me/And-flix" group-title="Sri Lanka", &Flix
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
@@ -65,5 +64,12 @@ https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="Car TV" tvg-name="Car TV" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="18" channel-id="18",Car TV
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 
-#EXTINF:-1 tvg-id="Derana" tvg-name="Derana NEW" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="18" channel-id="18",Derana NEW 
+#EXTINF:-1 tvg-id="Derana" tvg-name="Derana NEW" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="19" channel-id="19",Derana NEW 
 https://ythls.onrender.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports" tvg-name="Star Sports" tvg-logo="https://en.wikipedia.org/wiki/Star_Sports_(India)#/media/File:Star_Sports_Network_logo.png" channel-id="20",Star Sports
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://en.wikipedia.org/wiki/Discovery_Kids_(Australia)#/media/File:2016_Discovery_Kids_logo.svg" tvg-chno="21" channel-id="21",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+
