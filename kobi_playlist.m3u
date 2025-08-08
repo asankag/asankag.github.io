@@ -70,6 +70,42 @@ https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://en.wikipedia.org/wiki/BBC_Earth_(international_TV_channel)#/media/File:BBC_Earth_2023.svg" tvg-chno="23" channel-id="23",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://en.wikipedia.org/wiki/Disney_Jr.#/media/File:2024_Disney_Jr._Logo.svg" tvg-chno="23" channel-id="23",Disney Junior
+https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://en.wikipedia.org/wiki/Disney_Jr.#/media/File:2024_Disney_Jr._Logo.svg" tvg-chno="23" channel-id="23",Disney Junior
+https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://en.wikipedia.org/wiki/Cartoon_Network#/media/File:Cartoon_Network_2010_logo.svg" tvg-chno="24" channel-id="24",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://en.wikipedia.org/wiki/PBS_Kids#/media/File:PBS_Kids_logo_(2022).svg" tvg-chno="25" channel-id="25",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://en.wikipedia.org/wiki/Discovery_Channel#/media/File:2019_Discovery_logo.svg" tvg-chno="26" channel-id="26",Discovery Channel
+https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="27" channel-id="27",Sony Channel
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="4K Travel TV" tvg-name="4K Travel TV" tvg-logo="https://en.wikipedia.org/wiki/Travel_Channel#/media/File:2018_Travel_Channel_logo.svg" tvg-chno="28" channel-id="28",4K Travel TV
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://en.wikipedia.org/wiki/ABC_News_(United_States)#/media/File:ABC_News_logo_2021.svg" tvg-chno="29" channel-id="29",ABC
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="Australia" tvg-name="Australia" tvg-logo="https://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation#/media/File:Australian_Broadcasting_Corporation_logo.svg" tvg-chno="30" channel-id="30",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 tvg-id="ABN Afghanistan" tvg-name="ABN Afghanistan" tvg-logo="https://en.wikipedia.org/wiki/Afghanistan_National_Television#/media/File:RTA_Afghanistan_Logo_(2021–)_blue.svg" tvg-chno="31" channel-id="31",ABN Afghanistan
+https://mediaserver.abnvideos.com/streams/abnafgh
+
+#EXTINF:-1 tvg-id="4Afghanistan" tvg-name="4Afghanistan" tvg-logo="https://en.wikipedia.org/wiki/ABC_News_(United_States)#/media/File:ABC_News_logo_2021.svg" tvg-chno="32" channel-id="32",4Afghanistan
+https://4afghls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-logo="https://en.wikipedia.org/wiki/Abu_Dhabi_TV#/media/File:Abu_Dhabi_TV_logo_2023.png" tvg-chno="33" channel-id="33",Abu Dhabi TV
+http://dvrfl05.bozztv.com/gin-abudhabitv/index.m3u8
+
+#EXTINF:-1 tvg-id="4Music" tvg-name="4Music" tvg-logo="https://en.wikipedia.org/wiki/4Music#/media/File:4Music_logo_2018.svg" tvg-chno="34" channel-id="34",4Music
+https://4muhls.persiana.live/hls/stream.m3u8
 
