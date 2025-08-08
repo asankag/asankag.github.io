@@ -34,17 +34,11 @@ https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VYf3JNQqQGwKio4bqS7UsgA228wr5Q7UNU2fdgNE0N5KaTSUqju2roE67YL9hyYh0jub_LpO=s900" group-title="Sri Lanka",Charana TV
 https://edge4-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD FR" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="9" channel-id="9",Disney XD HD french
-https://live20.bozztv.com/dvrfl05/gin-1tvafg/index.m3u8
-
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="10" channel-id="10",BBC World News
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="11" channel-id="11",Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="12" channel-id="12",BBC FOOD
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5fb5844bf5514d0007945bdalivestitch/823680/playlist.m3u8?terminate=false&sid=2ba54bd7-6c1c-11f0-94a2-7263498181c2&deviceDNT=0&deviceLat=34.2400016784668&deviceLon=-118.55000305175781&deviceModel=web&deviceVersion=18.2.0&includeExtendedEvents=true&appName=web&DRMCapabilities=fairplay&deviceId=73bc4601-1a61-446e-b38b-a9324a21eb45&appVersion=9.14.1-ca6098bb5d1f2db68c2ccccf608346f21651f003&deviceType=web&deviceMake=safari&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjM2N2FkY2M4LWFlNDMtNDQ3Ni04NjI2LWM4YzUyMDdhMzVlNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyYmE1NGJkNy02YzFjLTExZjAtOTRhMi03MjYzNDk4MTgxYzIiLCJjbGllbnRJUCI6IjI2MDM6ODAwMDo5ZTNmOjNjYTk6ZWRlMzphYzJlOjcwMmU6ZGMyZSIsImNpdHkiOiJOb3J0aHJpZGdlIiwicG9zdGFsQ29kZSI6IjkxMzI0IiwiY291bnRyeSI6IlVTIiwiZG1hIjo4MDMsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNC4yNDAwMDE2Nzg0NjY4LCJkZXZpY2VMb24iOi0xMTguNTUwMDAzMDUxNzU3ODEsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE4LjIuMCIsImRldmljZU1ha2UiOiJzYWZhcmkiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xNC4xLWNhNjA5OGJiNWQxZjJkYjY4YzJjY2NjZjYwODM0NmYyMTY1MWYwMDMiLCJjbGllbnRJRCI6IjczYmM0NjAxLTFhNjEtNDQ2ZS1iMzhiLWE5MzI0YTIxZWI0NSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xvc19BbmdlbGVzIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJhZExvYWQiOnsiY29ob3J0IjoiIn0sIm11bHRpQXVkaW8iOnsiZW5hYmxlZCI6dHJ1ZX0sIm11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9LCJzZWFyY2hBUEkiOnsibWF0Y2hFeGFjdEluUGhyYXNlRW5hYmxlZCI6dHJ1ZSwibWF0Y2hJbkFjdG9yc0Jvb3N0IjoyNSwibWF0Y2hJbkFjdG9yc0VkaXREaXN0YW5jZSI6IkFVVE86NSwxMSIsIm1hdGNoSW5BY3RvcnNFbmFibGVkIjp0cnVlLCJtYXRjaEluRGlyZWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluRGlyZWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkRpcmVjdG9yc0VuYWJsZWQiOnRydWUsIm5leHVzVGltZW91dE1zIjo1MDAsInF1ZXJ5U3lub255bXNFbmFibGVkIjp0cnVlLCJxdWVyeVZlcnNpb24iOiJoeWJyaWQiLCJzZWFyY2hQcm94eUVuaGFuY2VtZW50IjpmYWxzZSwidGl0bGVBdmFpbGFiaWxpdHlEZXRlcm1pbmF0aW9uIjpmYWxzZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjczYmM0NjAxLTFhNjEtNDQ2ZS1iMzhiLWE5MzI0YTIxZWI0NSIsImZ3VmNJRDJDb3BwYSI6IjczYmM0NjAxLTFhNjEtNDQ2ZS1iMzhiLWE5MzI0YTIxZWI0NSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNzNiYzQ2MDEtMWE2MS00NDZlLWIzOGItYTkzMjRhMjFlYjQ1IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJmYWlycGxheSJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TnpOaVl6UTJNREV0TVdFMk1TMDBORFpsTFdJek9HSXRZVGt6TWpSaE1qRmxZalExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc1MzgzOTI2OSwiaWF0IjoxNzUzNzUyODY5LCJqdGkiOiJjMzI5MTc4MS0zZDY0LTRkMDctYTAzOC1iMGQ0YjRlNzQ5NDEifQ._S4jdk6uoAxWh_bkpWrrUj5EjKz6RCht0vicd0aUd2I&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&paln=AQzzBGQEV_SccfY7H8ERyK3FYLmzQZeYpnms9zaAVchOsA-VY8Qd2DXBXbJH7lGheFVi3Nz99tH04dZ2mVEZgT2R5DXx4ID0jILiCt7xZc-0F8-tvLLwwAirokNbSM8XGjzS6YrD153XoVBo0Xz7vabwrm7bLXNX2cCvu93TiasYxHqfwPrpWsQhHEJCl0E3HlEDz-qNXOIAddMzKah59tyzT83N-6lKjtK6yOmF1ObEwrXRTql6quyEzxFdkg44oJ646SaeCKlaHivFLrGIAN5SzxP0G-DieHNk3A2Tx8QdMQzY5Bpuo4UC4cWr6fOCp4yojNLyAUIdQAQfeE2-34_bn9-msUwNVu0PJbSpUH-Zz4PAJ9_v-qAYIcuYpStqwvhmTIcur2Bxp2DnNbFnmcwtoQUiKY-_k6c2zIhI9csuxzzo1wSbX01TMmBTl7zIFQ8Tv7pv7rSX3no-1hxOjNmpXjnRi15AKFbyUodyaNpYmNWeZIzjXrUzxJgKuUJiK9IzvPibyVOFQ3n8IWqpsDy2rSaEJnxzTk7FTG9cMP3cWHaKR5pIXnzVLuUaFqqZuwepBvWDmexiQbtzBhjc_aZBNZlPRu16B9tjAbjL20enGg25YzHHZ4k3t7P_qWpK3qZzVfiMrBEis_0EzUT8WDJ1RuEj438fIsMuqIPAJSC_zoQp6Yj3qsvUy37QuTgqpQd7SDb4yzjjBDdBcew5guHIdd1jCP4einezbJnZkOlH2Jny8DZ9NnfzQqMTZzpnai-8OGQbFkXqV9_k5NStRAvEEVkRljE0eOdOWKXcM3LzsOzK2qbons29my3HEF7U15_YvMMVoD3aS9Zqvguod0ce6U7PZO4HIo-An5vvG-p1x5gr2B_9hJwiozH-OTf2mokSgKLlYmpFF6QgtBBnS9vQbAsU-6rUw0-Tf5Bojd0Jfmpsi7fOjaGfcMu__tMAzW1p3uQdaaIDcjhDx5KAWTp5qfTmBTfQ7IgzyHHcXUjlDMKBCgMWDGBiH4IOVIAaYSwefgqjMwwCiFQJ2woziF3UFt2Un7f5Jjn6GQEl0FNJdMPMoEjdJC1e5Maq0Wn4y0zyvuzQyoyT4FULQMOd2AtGslo9g9NUTMoVU90ApN4ELZzZePpvCjqpvhpS3zMdy3-P3DKrBrrNtsisFt3bM2IIap7IHmyW6nlof-duTndEqNAsJpLuPNhaCtB5YA5k63vFiyIbmCm7vCf4fLYPGWgD-yzToV6ITqthxXCW4v5ES_qh_e8p0BhDGL6qPr6Omzcq90LYlDGcafbla4JLrKw_7sLpNp-CSg8UA3U0SglGkffc9E64e9CVAk11e1E7IIlapUVypCJzXM2MGqYqoC2rtU9V6N5TdsXzWw..&us_privacy=1YNN
 
 #EXTINF:-1 tvg-id="MMC USA" tvg-name="MMC USA" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="13" channel-id="13",MMC USA
 https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
@@ -64,12 +58,18 @@ https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="Car TV" tvg-name="Car TV" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="18" channel-id="18",Car TV
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 
-#EXTINF:-1 tvg-id="Derana" tvg-name="Derana NEW" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="19" channel-id="19",Derana NEW 
-https://ythls.onrender.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
-
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="Star Sports" tvg-logo="https://en.wikipedia.org/wiki/Star_Sports_(India)#/media/File:Star_Sports_Network_logo.png" channel-id="20",Star Sports
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://en.wikipedia.org/wiki/Discovery_Kids_(Australia)#/media/File:2016_Discovery_Kids_logo.svg" tvg-chno="21" channel-id="21",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+
+#EXTINF:-1 tvg-id="2GB Sydney" tvg-name="2GB Sydney" tvg-logo="https://en.wikipedia.org/wiki/2GB#/media/File:2GB_Sydney_Logo.png" tvg-chno="22" channel-id="22",2GB Sydney
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://en.wikipedia.org/wiki/BBC_Earth_(international_TV_channel)#/media/File:BBC_Earth_2023.svg" tvg-chno="23" channel-id="23",BBC Earth
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+
+
+
 
