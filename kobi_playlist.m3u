@@ -109,3 +109,47 @@ http://dvrfl05.bozztv.com/gin-abudhabitv/index.m3u8
 #EXTINF:-1 tvg-id="4Music" tvg-name="4Music" tvg-logo="https://en.wikipedia.org/wiki/4Music#/media/File:4Music_logo_2018.svg" tvg-chno="34" channel-id="34",4Music
 https://4muhls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="Sky 1" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="35" channel-id="35",Sky 1
+http://104.218.60.142:25461/live/SF11/vulwBvtfo9/118585.ts
+
+#EXTINF:-1 tvg-id="Sky 2" tvg-name="Sky 2" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="36" channel-id="36",Sky 2
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
+
+#EXTINF:-1 tvg-id="Sky 3" tvg-name="Sky 3" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="37" channel-id="37",Sky 3
+http://104.218.60.142:25461/live/SF11/vulwBvtfo9/118587.ts
+
+#EXTINF:-1 tvg-id="Sky 4" tvg-name="Sky 4" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="38" channel-id="38",Sky 4
+http://104.218.60.142:25461/live/SF11/vulwBvtfo9/118588.ts
+
+#EXTINF:-1 tvg-id="Sky 5" tvg-name="Sky 5" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="39" channel-id="39",Sky 5
+http://104.218.60.142:25461/live/SF11/vulwBvtfo9/118589.ts
+
+#EXTINF:-1 tvg-id="Sky 6" tvg-name="Sky 6" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="40" channel-id="40",Sky 6
+http://104.218.60.142:25461/live/SF11/vulwBvtfo9/118590.ts
+
+#EXTINF:-1 tvg-id="Sky 7" tvg-name="Sky 7" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="41" channel-id="41",Sky 7
+http://104.218.60.142:25461/live/SF11/vulwBvtfo9/118591.ts
+
+#EXTINF:-1 tvg-id="Siyatha TV" tvg-name="Siyatha TV" tvg-logo="https://siyathatv.lk/wp-content/themes/siyathatv-vol-008/images/siyathatv-logo.jpg" tvg-chno="42" channel-id="42",Siyatha TV
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+
+#EXTINF:-1 tvg-id="Willow" tvg-name="Willow" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="43" channel-id="43",Willow
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Willow Sports" tvg-name="Willow Sports" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="44" channel-id="44",Willow Sports
+https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+
+#EXTINF:-1 tvg-id="Fashion TV UHD" tvg-name="Fashion TV UHD" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="45" channel-id="45",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="45" channel-id="45",ESPN
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNews" tvg-name="ESPNews" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="46" channel-id="46",ESPNews
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNews" tvg-name="ESPNews" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="46" channel-id="46",ESPNews
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="COOKING CHANNEL" tvg-name="COOKING CHANNEL" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="47" channel-id="47",COOKING CHANNEL
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
