@@ -153,3 +153,21 @@ https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="COOKING CHANNEL" tvg-name="COOKING CHANNEL" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="47" channel-id="47",COOKING CHANNEL
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="48" channel-id="48",National Geographic
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="49" channel-id="49",National Geographic Wild
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-id="NHL" tvg-name="NHL" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="50" channel-id="50",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="51" channel-id="51",NHK World-Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-id="NICK JR HD" tvg-name="NICK JR HD" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="52" channel-id="52",NICK JR HD
+http://116.90.120.149:8000/play/a0cw/index.m3u8
+
+#EXTINF:-1 tvg-id="Hiru New" tvg-name="Hiru New" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="53" channel-id="53",Hiru New
+https://tv.hiruhost.com:1936/8012/8012/chunklist_w1929904244.m3u8
