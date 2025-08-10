@@ -85,8 +85,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://en.wikipedia.org/wiki/Discovery_Channel#/media/File:2019_Discovery_logo.svg" tvg-chno="26" channel-id="26",Discovery Channel
 https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="27" channel-id="27",Sony Channel
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Sky 2" tvg-name="Sky 2" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="27" channel-id="27",Sky 2
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
 
 #EXTINF:-1 tvg-id="4K Travel TV" tvg-name="4K Travel TV" tvg-logo="https://en.wikipedia.org/wiki/Travel_Channel#/media/File:2018_Travel_Channel_logo.svg" tvg-chno="28" channel-id="28",4K Travel TV
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
