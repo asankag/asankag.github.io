@@ -171,3 +171,6 @@ http://116.90.120.149:8000/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-id="Hiru New" tvg-name="Hiru New" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="53" channel-id="53",Hiru New
 https://tv.hiruhost.com:1936/8012/8012/chunklist_w1929904244.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="54" channel-id="54",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
