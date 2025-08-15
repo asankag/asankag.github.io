@@ -174,3 +174,28 @@ https://tv.hiruhost.com:1936/8012/8012/chunklist_w1929904244.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="54" channel-id="54",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="Baby Shark TV" tvg-name="Baby Shark TV" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="55" channel-id="55",Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime Movies" tvg-name="Lifetime Movies" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="56" channel-id="56",Lifetime Movies
+https://amg00276-aenetwork-amg00276c21-lg-gb-5291.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC All Reality" tvg-name="AMC All Reality" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="57" channel-id="57",AMC All Reality
+https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC All Reality" tvg-name="AMC All Reality" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="57" channel-id="57",AMC All Reality
+https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mtrspt 1" tvg-name="Mtrspt 1" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="58" channel-id="58",Mtrspt 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-Iggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Adventure Earth" tvg-name="Adventure Earth" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="59" channel-id="59",Adventure Earth
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",MTV
+https://fl3.moveonjoy.com/MTV/index.m3u8
+
+
+
+
