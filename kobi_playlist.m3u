@@ -1,5 +1,3 @@
-#EXTINF: -1 tvg-id="ts506" tvg-chno="1" tvg-logo="https://spoo.me/And-flix" group-title="Sri Lanka", &Flix
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-logo="https://tnltv.lk/images/logos/logo/tnltv.png" group-title="Sri Lanka",TNL TV
 https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8?dvr
@@ -49,9 +47,6 @@ https://fl3.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="15" channel-id="15",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="Sardari TV" tvg-name="Sardari TV" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="16" channel-id="16",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV One" tvg-name="TV One" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="17" channel-id="17",TV One
 https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 
@@ -61,20 +56,8 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="Star Sports" tvg-logo="https://en.wikipedia.org/wiki/Star_Sports_(India)#/media/File:Star_Sports_Network_logo.png" channel-id="20",Star Sports
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://en.wikipedia.org/wiki/Discovery_Kids_(Australia)#/media/File:2016_Discovery_Kids_logo.svg" tvg-chno="21" channel-id="21",Discovery Kids
-https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
-
-#EXTINF:-1 tvg-id="2GB Sydney" tvg-name="2GB Sydney" tvg-logo="https://en.wikipedia.org/wiki/2GB#/media/File:2GB_Sydney_Logo.png" tvg-chno="22" channel-id="22",2GB Sydney
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://en.wikipedia.org/wiki/BBC_Earth_(international_TV_channel)#/media/File:BBC_Earth_2023.svg" tvg-chno="23" channel-id="23",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://en.wikipedia.org/wiki/Disney_Jr.#/media/File:2024_Disney_Jr._Logo.svg" tvg-chno="23" channel-id="23",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://en.wikipedia.org/wiki/Disney_Jr.#/media/File:2024_Disney_Jr._Logo.svg" tvg-chno="23" channel-id="23",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://en.wikipedia.org/wiki/Cartoon_Network#/media/File:Cartoon_Network_2010_logo.svg" tvg-chno="24" channel-id="24",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
@@ -88,23 +71,11 @@ https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Sky 2" tvg-name="Sky 2" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="27" channel-id="27",Sky 2
 http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
 
-#EXTINF:-1 tvg-id="4K Travel TV" tvg-name="4K Travel TV" tvg-logo="https://en.wikipedia.org/wiki/Travel_Channel#/media/File:2018_Travel_Channel_logo.svg" tvg-chno="28" channel-id="28",4K Travel TV
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://en.wikipedia.org/wiki/ABC_News_(United_States)#/media/File:ABC_News_logo_2021.svg" tvg-chno="29" channel-id="29",ABC
 http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="Australia" tvg-name="Australia" tvg-logo="https://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation#/media/File:Australian_Broadcasting_Corporation_logo.svg" tvg-chno="30" channel-id="30",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-
-#EXTINF:-1 tvg-id="ABN Afghanistan" tvg-name="ABN Afghanistan" tvg-logo="https://en.wikipedia.org/wiki/Afghanistan_National_Television#/media/File:RTA_Afghanistan_Logo_(2021–)_blue.svg" tvg-chno="31" channel-id="31",ABN Afghanistan
-https://mediaserver.abnvideos.com/streams/abnafgh
-
-#EXTINF:-1 tvg-id="4Afghanistan" tvg-name="4Afghanistan" tvg-logo="https://en.wikipedia.org/wiki/ABC_News_(United_States)#/media/File:ABC_News_logo_2021.svg" tvg-chno="32" channel-id="32",4Afghanistan
-https://4afghls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-logo="https://en.wikipedia.org/wiki/Abu_Dhabi_TV#/media/File:Abu_Dhabi_TV_logo_2023.png" tvg-chno="33" channel-id="33",Abu Dhabi TV
-http://dvrfl05.bozztv.com/gin-abudhabitv/index.m3u8
 
 #EXTINF:-1 tvg-id="4Music" tvg-name="4Music" tvg-logo="https://en.wikipedia.org/wiki/4Music#/media/File:4Music_logo_2018.svg" tvg-chno="34" channel-id="34",4Music
 https://4muhls.persiana.live/hls/stream.m3u8
@@ -116,19 +87,61 @@ http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
 http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
 
 #EXTINF:-1 tvg-id="Sky 3" tvg-name="Sky 3" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="37" channel-id="37",Sky 3
-https://hls.sheepland.xyz/play/0/15?proxy=0
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118587.ts
 
 #EXTINF:-1 tvg-id="Sky 4" tvg-name="Sky 4" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="38" channel-id="38",Sky 4
-https://hls.sheepland.xyz/play/0/36?proxy=0
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118588.ts
 
 #EXTINF:-1 tvg-id="Sky 5" tvg-name="Sky 5" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="39" channel-id="39",Sky 5
 http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
 
 #EXTINF:-1 tvg-id="Sky 6" tvg-name="Sky 6" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="40" channel-id="40",Sky 6
-https://hls.sheepland.xyz/play/0/70?proxy=0
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118590.ts
 
 #EXTINF:-1 tvg-id="Sky 7" tvg-name="Sky 7" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="41" channel-id="41",Sky 7
-https://hls.sheepland.xyz/play/0/66?proxy=0
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118591.ts
+
+#EXTINF:-1 tvg-id="Sky Sport" tvg-name="Sky Sport" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="41" channel-id="41",Sky Sport
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118592.ts
+
+#EXTINF:-1 tvg-id="Sky 8" tvg-name="Sky 8" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="41" channel-id="41",Sky 8
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118592.ts
+
+#EXTINF:-1 tvg-id="F1" tvg-name="F1" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",F1
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118593.ts
+
+#EXTINF:-1 tvg-id="F1" tvg-name="F1" tvg-logo="https://en.wikipedia.org/wiki/Sony_Entertainment_Television#/media/File:SETindialogo_new.png" tvg-chno="41" channel-id="41",F1
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118593.ts
+
+#EXTINF:-1 tvg-id="game +" tvg-name="game +" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",game +
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118584.ts
+
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",WWE
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118583.ts
+
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",WWE
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118582.ts
+
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",CBS
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118582.ts
+
+#EXTINF:-1 tvg-id="One Soccer" tvg-name="One Soccer" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",One Soccer
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118581.ts
+
+#EXTINF:-1 tvg-id="Sky Sport Select" tvg-name="Sky Sport Select" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",Sky Sport Select
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118594.ts
+
+#EXTINF:-1 tvg-id="Sky Tennis" tvg-name="Sky Tennis" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",Sky Tennis
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118612.ts
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",TBS
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118613.ts
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",TBS
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118613.ts
+
+#EXTINF:-1 tvg-id="APPLE TV" tvg-name="APPLE TV" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",APPLE TV
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118616.ts
 
 #EXTINF:-1 tvg-id="Siyatha TV" tvg-name="Siyatha TV" tvg-logo="https://siyathatv.lk/wp-content/themes/siyathatv-vol-008/images/siyathatv-logo.jpg" tvg-chno="42" channel-id="42",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
