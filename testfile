@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="NASA" tvg-name="NASA TV" group-title="Science",NASA TV
+https://playback.live-video.net/api/video/v1/us-east-1.1234567890.channel/NASA-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="TEST" tvg-name="TEST" group-title="News",TEST
+https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
