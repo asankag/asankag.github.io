@@ -314,12 +314,12 @@ https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/ts-eu-w1-n2/pl
 #EXTINF:-1 tvg-id="NDTV Good Times" tvg-name="NDTV Good Times" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",NDTV Good Times
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sky News Now" tvg-name="Sky News Now" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",Sky News Now
-https://cgentertainment-cgtv-1-it.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="4K Travel TV" tvg-name="4K Travel TV" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
+#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-
+#EXTINF:-1 tvg-id="Kartoon Channel" tvg-name="Kartoon Channel" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",Kartoon Channel
+https://amg01076-lightningintern-kartoonchannel-samsungnz-t8blu.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 
