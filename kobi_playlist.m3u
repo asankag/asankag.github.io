@@ -323,3 +323,37 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="Kartoon Channel" tvg-name="Kartoon Channel" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",Kartoon Channel
 https://amg01076-lightningintern-kartoonchannel-samsungnz-t8blu.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="INWONDER" tvg-name="INWONDER" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",INWONDER
+https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBC Kids" tvg-name="BBC Kids" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",BBC Kids
+https://jmp2.uk/stvp-US800003JM
+
+#EXTINF:-1 tvg-id="BBC Kids" tvg-name="BBC Kids" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",BBC Kids
+https://jmp2.uk/stvp-US800003JM
+
+#EXTINF:-1 tvg-id="CBS Sports Network USA" tvg-name="CBS Sports Network USA" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",CBS Sports Network USA
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Bizzare Foods" tvg-name="Bizzare Foods" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",Bizzare Foods
+https://amg00136-wbd-amg00136c42-tablo-us-7205.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="New Movies" tvg-name="New Movies" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",New Movies
+https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mtrspt 1" tvg-name="Mtrspt 1" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",Mtrspt 1
+https://amg02873-kravemedia-mtrspt1-lggb-up10l.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Movies 4 Free" tvg-name="Movies 4 Free" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",Movies 4 Free
+https://movies4free-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Life Downunder" tvg-name="Life Downunder" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",Life Downunder
+https://wtfn-lifedownunder-2-ie.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Great British Menu" tvg-name="Great British Menu" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" tvg-chno="60" channel-id="60",Great British Menu
+https://all3media-great-british-menu-1-gb.lg.wurl.tv/playlist.m3u8
+
+
+
+
+
