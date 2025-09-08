@@ -121,5 +121,8 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" tvg-chno="15" channel-id="15",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/2560px-MTV_2021_%28brand_version%29.svg.png" group-title=“Music”,MTV
+https://fl3.moveonjoy.com/MTV/index.m3u8
+
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png" tvg-chno="41" channel-id="41",CBS New
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
