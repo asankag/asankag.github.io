@@ -1,6 +1,12 @@
 #EXTINF:-1 tvg-id="MMC USA" tvg-name="MMC USA" tvg-logo="https://www.mmctvusa.com/wp-content/uploads/logo-mmc.png" group-title=“Sport”,MMC USA
 https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Jaya TV" tvg-name="Jaya TV" tvg-logo="https://yt3.googleusercontent.com/PcbqZs2QerjUlXid1loHl44zj4fxcclODTPTcyJnIxW8fUx9m3h7n8SgPssVglPQrVXJ-exZ=s176-c-k-c0x00ffffff-no-rj-mo" group-title=“Sport”,Jaya TV
+https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="The Buddhist" tvg-name="The Buddhist" tvg-logo="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/328977406_885088002917840_3846361204956674448_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=jiVsE0L0yEYQ7kNvwH4U1aX&_nc_oc=AdkGSCU89FeSRBakBeQJlWr7sTixJhovnPTCgyCafmV2nRa2NXBrMbEEPIr4AyG5c5Wm84zHYeFNxem7zvZt-wEc&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=mE6xAjPxFeuI3D-xHxIPzQ&oh=00_Afa4b0RjbvLVsYlOdG-HKZc1bw12wCBrZJ6xvF1i0wyE_w&oe=68CC97DC" group-title=“Sport”,The Buddhist
+https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2E7hFLq3iB7jB7GYnOgEvBTSp8qFr--a6A&s" group-title="Sri Lanka",Rupavahini TV
 https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8?dvr
 
@@ -158,6 +164,8 @@ http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="CBS news" tvg-name="CBS news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CBS_News_2020_%28Stacked_II%29.svg/2560px-CBS_News_2020_%28Stacked_II%29.svg.png"  group-title=“NEWS”, CBS news
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/5ff01ad6-e3cc-4431-aeca-f032606a41f2:MRN2/variant/df9d5f9fc8201f0878fd4a77927eea3b/bandwidth/3016996.m3u8
 
+#EXTINF:-1 tvg-id="DW” tvg-name="DW” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png"  group-title=“NEWS”,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Baby Shark TV" tvg-name="Baby Shark TV" tvg-logo="https://yt3.ggpht.com/8KcS8NL60gkvFT5ap-lwM_1MCDHNY0h-qOwNd_A12WMcPqk5iDIwiGKYUMxVU2HXbZp35CxWlg=s88-c-k-c0x00ffffff-no-rj"  group-title=“KIDS”,Baby Shark TV
