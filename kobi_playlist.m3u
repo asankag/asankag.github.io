@@ -395,7 +395,26 @@ https://jmp2.uk/stvp-USBB80000107
 #EXTINF:-1 tvg-id="PBS Antiques Roadshow" tvg-name="PBS Antiques Roadshow" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,PBS Antiques Roadshow
 https://jmp2.uk/stvp-USBD4200017GS
 
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,CNN
+https://amg01918-cnnus-amg01918c2-Ig-us-5721.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Autentic Travel" tvg-name="Autentic Travel" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Autentic Travel
+https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Autentic History" tvg-name="Autentic History" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Autentic History
+https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Anger Management" tvg-name="Anger Management" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Anger Management
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Air and Space" tvg-name="Air and Space" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Air and Space
+https://wingspan-airandspace-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Adventure Earth" tvg-name="Adventure Earth" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Adventure Earth
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="The LEGO Channel" tvg-name="The LEGO Channel" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,The LEGO Channel
+https://jmp2.uk/stvp-USBA2300001S8
 
 
 
