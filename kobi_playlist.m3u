@@ -112,11 +112,17 @@ https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel XP" tvg-name="Travel XP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/2880px-Travelxp_logo.svg.png" group-title=“Travel”,Travel XP
 https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Travel XP" tvg-name="Travel XP TATA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/2880px-Travelxp_logo.svg.png" group-title=“Travel”,Travel XP
+http://116.90.120.149:8000/play/a0e8/index.m3u8
+
 #EXTINF:-1 tvg-id="The Explorers" tvg-name="The Explorers" tvg-logo="https://axeptio.imgix.net/2021/03/e3f082de-ad9f-4cdf-9b48-206e6ed337e1.png?auto=format&fit=crop&w=170&h=auto&dpr=2" group-title=“Travel”,The Explorers
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Xploration Station" tvg-name="Xploration Station" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" group-title=“Travel”,Xploration Station
 https://srpdigital-xplorationstation-1-gb.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1280px-History_%282021%29.svg.png" group-title=“History”,History
+http://116.90.120.149:8000/play/a0e3/index.m3u8
 
 #EXTINF:-1 tvg-id="Hagerty" tvg-name="Hagerty" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" group-title=“Travel”,Hagerty
 https://amg01703-amg01703c1-firetv-us-7717.playouts.now.amagi.tv/playlist.m3u8
@@ -195,6 +201,8 @@ https://jmp2.uk/stvp-US800003JM
 #EXTINF:-1 tvg-id="Kartoon Channel" tvg-name="Kartoon Channel" tvg-logo="https://www.kartoonchannel.com/themes/custom/gnb/kartoon_channel/img/ima/KC_Mobile-FTUE_logo.png" group-title=“KIDS”,Kartoon Channel
 https://amg01076-lightningintern-kartoonchannel-samsungnz-t8blu.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Disney HD" tvg-name="Disney International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png" group-title=“KIDS”,Disney International HD
+http://116.90.120.149:8000/play/a0e9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TV One" tvg-name="TV One" tvg-logo="https://tvone.tv/wp-content/uploads/sites/103/2016/02/cropped-favicon_simple.png?strip=all&quality=80&w=196&crop=0,0,100,196px" group-title=“Movies”,TV One
