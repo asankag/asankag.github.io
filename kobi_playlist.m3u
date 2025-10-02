@@ -204,6 +204,8 @@ https://amg01076-lightningintern-kartoonchannel-samsungnz-t8blu.amagi.tv/ts-eu-w
 #EXTINF:-1 tvg-id="Disney HD" tvg-name="Disney International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png" group-title=“KIDS”,Disney International HD
 http://116.90.120.149:8000/play/a0e9/index.m3u8
 
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2880px-AXN_logo_%282015%29.svg.png" group-title=“Movies”,AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="TV One" tvg-name="TV One" tvg-logo="https://tvone.tv/wp-content/uploads/sites/103/2016/02/cropped-favicon_simple.png?strip=all&quality=80&w=196&crop=0,0,100,196px" group-title=“Movies”,TV One
 https://fl3.moveonjoy.com/TV_ONE/index.m3u8
