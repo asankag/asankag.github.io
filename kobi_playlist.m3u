@@ -173,6 +173,9 @@ https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/5ff01ad
 #EXTINF:-1 tvg-id="DW” tvg-name="DW” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png"  group-title=“NEWS”,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
+#EXTINF:-1 tvg-id="BBC One UK” tvg-name="BBC One UK” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png"  group-title=“NEWS”,BBC One UK
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+
 
 #EXTINF:-1 tvg-id="Baby Shark TV" tvg-name="Baby Shark TV" tvg-logo="https://yt3.ggpht.com/8KcS8NL60gkvFT5ap-lwM_1MCDHNY0h-qOwNd_A12WMcPqk5iDIwiGKYUMxVU2HXbZp35CxWlg=s88-c-k-c0x00ffffff-no-rj"  group-title=“KIDS”,Baby Shark TV
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
@@ -185,6 +188,9 @@ https://newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://static.epg.best/fr/DisneyXD.fr.png" group-title=“KIDS”,Disney XD
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/2880px-2024_Disney_Channel_text_logo.svg.png" group-title=“KIDS”,Disney
+https://e5.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?
 
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1920px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title=“KIDS”,Nick Jr
 https://fl3.moveonjoy.com/NICK_JR/index.m3u8
@@ -331,6 +337,12 @@ https://jmp2.uk/stvp-US3700005GP
 #EXTINF:-1 tvg-id="BBC Comedy" tvg-name="BBC Comedy" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,BBC Comedy
 https://jmp2.uk/stvp-US4500009VV
 
+#EXTINF:-1 tvg-id="BBC Three/CBBC" tvg-name="BBC Three/CBBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/CBBC_%282023%2C_dark_bg%29.svg/2560px-CBBC_%282023%2C_dark_bg%29.svg.png" group-title=“History”,BBC Three/CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+
+#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/2560px-BBC_Two_logo_2021.svg.png" group-title=“History”,BBC Two
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+
 #EXTINF:-1 tvg-id="Animation+" tvg-name="Animation+" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Animation+
 https://jmp2.uk/stvp-US400002PS
 
@@ -429,6 +441,102 @@ https://jmp2.uk/stvp-USBA2300001S8
 #EXTINF:-1 tvg-id="The" tvg-name="The" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,The
 https://www.youtube.com/watch?v=yYM_vdmwabM
 
+#EXTINF:-1 tvg-id="The" tvg-name="The" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,The
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Channel 4 UK
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
+#EXTINF:-1 tvg-id="Film4 HD" tvg-name="Film4 HD" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Film4 HD
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 
+#EXTINF:-1 tvg-id="History Hunters" tvg-name="History Hunters" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,History Hunters
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Travel XP" tvg-name="Travel XP" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="World War TV" tvg-name="World War TV" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,World War TV
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKC TV Puppies" tvg-name="AKC TV Puppies" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="Beach TV Florida & Alabama" tvg-name="Beach TV Florida & Alabama" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Beach TV Florida & Alabama
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="California Music Channel" tvg-name="California Music Channel" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Celebrity Scene TV" tvg-name="Celebrity Scene TV" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Celebrity Scene TV
+https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+
+#EXTINF:-1 tvg-id="Little Guyana TV" tvg-name="Little Guyana TV" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Little Guyana TV
+https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Fox Sports
+https://livetv-fa.tubi.video/fox-sports2/index.m3u8
+
+#EXTINF:-1 tvg-id="Fubo Sports Network" tvg-name="Fubo Sports Network" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,Fubo Sports Network
+https://livetv-fa.tubi.video/fubo/master.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOW from FOX" tvg-name="LiveNOW from FOX" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,LiveNOW from FOX
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+
+#EXTINF:-1 tvg-id="NHRATV.us",NHRA TV (720p)
+https://livetv-fa.tubi.video/nhra/nh.m3u8
+
+#EXTINF:-1 tvg-id="NFLChannel.us",NFL (720p)
+https://aegis-cloudfront-1.tubi.video/4237973e-9e8c-4ec6-95b3-b7363ce39470/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",WBTV At the Movies [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-at-the-movies/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Chasing Criminals [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-chasing-criminals/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Classic Cinema [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-classic-cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Crime scenes [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-crime-scenes/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Family Faves [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-all-together-now/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Family Unscripted [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-family-rules/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Generation Drama [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-generation-drama/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Ghosts are Real [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-supernatural/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV HBO Boxing (1080p) [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-hbo-boxing/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV How To [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-how-to/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV In The Garage [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-in-the-garage/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Living With Evil [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-living-with-evil/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Love & Desire [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-keeping-it-real/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Love and Marriage [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-love-marriage/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Mysterious Worlds [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-mysteries/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Nikita [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-nikita/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV On The Telly [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-on-the-telly/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Paws and Claws [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-paws-claws/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Sweet Escapes [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-sweet-escapes/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV The FBI [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-the-fbi/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Travel and Adventure [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-travel-and-adventure/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Unique Lives [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-slice-life/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Watchlist [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-watch-list/playlist.m3u8
+#EXTINF:-1 tvg-id="",WBTV Welcome Home [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-welcome-home/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XploreTV.us",Xplore (720p)
+https://aegis-cloudfront-1.tubi.video/4cfc30dc-1431-46b6-aea7-89a2e7d35823/playlist.m3u8
