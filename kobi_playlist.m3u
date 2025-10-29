@@ -198,6 +198,9 @@ https://fl3.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1920px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title=“KIDS”,Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1920px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title=“KIDS”,Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
 #EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1280px-PBS_Kids_logo_%282022%29.svg.png" group-title=“KIDS”,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
