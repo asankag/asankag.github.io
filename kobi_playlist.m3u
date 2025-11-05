@@ -213,6 +213,11 @@ https://amg01076-lightningintern-kartoonchannel-samsungnz-t8blu.amagi.tv/ts-eu-w
 #EXTINF:-1 tvg-id="Disney HD" tvg-name="Disney International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png" group-title=“KIDS”,Disney International HD
 http://116.90.120.149:8000/play/a0e9/index.m3u8
 
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/500px-ZooMoo_logo.svg.png" group-title=“KIDS”,ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2880px-AXN_logo_%282015%29.svg.png" group-title=“Movies”,AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
@@ -288,6 +293,13 @@ https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="https://unbeaten.com/assets/images/unbeaten-logo.png" group-title=“Life Style”,Unbeaten
 https://amg00721-inverleigh-unbeatengb-lggb-5zrkt.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbeatengb-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="https://unbeaten.com/assets/images/unbeaten-logo.png" group-title=“Life Style”,Unbeaten
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="Life Downunder" tvg-name="Life Downunder" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“Life Style”,Life Downunder
 https://wtfn-lifedownunder-2-ie.lg.wurl.tv/playlist.m3u8
