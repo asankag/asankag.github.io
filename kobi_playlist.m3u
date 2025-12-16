@@ -507,6 +507,39 @@ https://livetv-fa.tubi.video/nhra/nh.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us",NFL (720p)
 https://aegis-cloudfront-1.tubi.video/4237973e-9e8c-4ec6-95b3-b7363ce39470/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports 1 HD
+http:/87.255.35.150:18891
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports 1 Hindi HD 
+http://87.255.35.150:18302
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports 1 Tamil HD (1080р)
+http://87.255.35.150:18844
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports 1 Telugu HD (1080р)
+http:/87.255.35.150:18881
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports 2 HD (1080р)
+http://87.255.35.150:18828
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports 2 Hindi (1080р)
+http:/87.255.35.150:18882
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports 2 Telugu (576р)
+http://87.255.35.150:18280
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports 3 (576р)
+http://87.255.35.150:18804
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports Select 1 HD (1080р)
+http://87.255.35.150:18893
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports Select 1 HD (1080р)
+http://87.255.35.150:18893
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Sports Select 2 HD (1080р)
+http://87.255.35.150:18952
+
 #EXTINF:-1 tvg-id="",WBTV At the Movies [Geo-blocked]
 https://livetv-fa.tubi.video/wbd-at-the-movies/playlist.m3u8
 #EXTINF:-1 tvg-id="",WBTV Chasing Criminals [Geo-blocked]
