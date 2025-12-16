@@ -540,6 +540,25 @@ http://87.255.35.150:18893
 #EXTINF:-1 tvg-id="NFLChannel.us",Star Sports Select 2 HD (1080р)
 http://87.255.35.150:18952
 
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Maa Gold (576р)
+http://87.255.35.150:18815
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Maa HD (1080р)
+http://87.255.35.150:18846
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Maa Movies (576р)
+http:/87.255.35.150:18817
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Maa Music (576p)
+http://87.255.35.150:18816
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Movies HD (1080р)
+http://87.255.35.150:18301
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Star Movies Select HD (1080р)
+http://87.255.35.150:18548
+
+
 #EXTINF:-1 tvg-id="",WBTV At the Movies [Geo-blocked]
 https://livetv-fa.tubi.video/wbd-at-the-movies/playlist.m3u8
 #EXTINF:-1 tvg-id="",WBTV Chasing Criminals [Geo-blocked]
