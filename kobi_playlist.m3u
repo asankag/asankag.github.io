@@ -540,6 +540,31 @@ http://87.255.35.150:18893
 #EXTINF:-1 tvg-id="NFLChannel.us",Star Sports Select 2 HD (1080р)
 http://87.255.35.150:18952
 
+#EXTINF:-1 tvg-id="NFLChannel.us",Sony Max 2 (576р)
+http://87.255.35.150:18841
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Sony Pal (576р)
+http://87.255.35.150:18887
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Sony Pix (1080р)
+http://87.255.35.150:18495
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Sony Sports Ten 1 (1080р)
+http://87.255.35.150:18926
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Sony Sports Ten 2 (1080р)
+http://87.255.35.150:18927
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Sony Sports Ten 3 (1080р)
+http://87.255.35.150:18848
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Sony Sports Ten 5 (1080р)
+http://87.255.35.150:18818
+
+#EXTINF:-1 tvg-id="NFLChannel.us",Sony Yay! (576p)
+http://87.255.35.150:18285
+
+
 #EXTINF:-1 tvg-id="NFLChannel.us",Star Maa Gold (576р)
 http://87.255.35.150:18815
 
