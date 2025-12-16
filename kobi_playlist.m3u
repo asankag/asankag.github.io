@@ -101,7 +101,7 @@ https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
 https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Outside TV" tvg-name="Outside TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/2560px-Outdoor_Channel_logo_2017.svg.png" group-title=“Nature”,Outside TV
-https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBS Nature" tvg-name="PBS Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title=“Nature”,PBS Nature
 https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
@@ -112,11 +112,11 @@ https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INWONDER" tvg-name="INWONDER" tvg-logo="https://cdn.prod.website-files.com/66674f5e1df7751fcf01ae62/66bcf08b4da4b785f35b76d6_INWONDER.png" group-title=“Nature”,INWONDER
 https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Travel XP" tvg-name="Travel XP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/2880px-Travelxp_logo.svg.png" group-title=“Travel”,Travel XP
+#EXTINF:-1 tvg-id="Travel XP GB" tvg-name="Travel XP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/2880px-Travelxp_logo.svg.png" group-title=“Travel”,Travel XP
 https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Travel XP" tvg-name="Travel XP TATA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/2880px-Travelxp_logo.svg.png" group-title=“Travel”,Travel XP
-http://116.90.120.149:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="Travel XP NZ" tvg-name="Travel XP TATA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/2880px-Travelxp_logo.svg.png" group-title=“Travel”,Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="The Explorers" tvg-name="The Explorers" tvg-logo="https://axeptio.imgix.net/2021/03/e3f082de-ad9f-4cdf-9b48-206e6ed337e1.png?auto=format&fit=crop&w=170&h=auto&dpr=2" group-title=“Travel”,The Explorers
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
