@@ -219,6 +219,11 @@ http://116.90.120.149:8000/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/500px-ZooMoo_logo.svg.png" group-title=“KIDS”,ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/500px-Comedy_Central_2018.svg.png" group-title=“Comedy”,Comedy Central
+https://fl61.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/500px-TBS_2020.svg.png" group-title=“Movies”,TBS
+http://fl51.moveonjoy.com/TBS/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2880px-AXN_logo_%282015%29.svg.png" group-title=“Movies”,AXN
