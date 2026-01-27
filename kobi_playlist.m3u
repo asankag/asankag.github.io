@@ -17,7 +17,7 @@ https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8
 https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sirasatv.lk/assets/images/Sirasa_TV_Logo.png" group-title="Sri Lanka",Sirasa TV
-https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?dvr
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://siyathatv.lk/wp-content/themes/siyathatv-vol-008/images/siyathatv-logo.jpg" group-title="Sri Lanka",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
