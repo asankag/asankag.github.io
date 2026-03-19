@@ -62,12 +62,6 @@ http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title=“Sport”,ESPN 2
 http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
 
-#EXTINF:-1 tvg-id="ESPN US" tvg-name="ESPN US" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png" group-title=“Sport”,ESPN US 2
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
-
 #EXTINF:-1 tvg-id="Top Gear" tvg-name="Top Gear" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TopGearLogo.svg/2560px-TopGearLogo.svg.png" group-title=“Sport”,Top Gear
 https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8
 
