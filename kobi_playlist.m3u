@@ -209,6 +209,9 @@ https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1280px-TNT_%28TV_Channel%29.svg.png" group-title=“Movies”,TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="CineLife" tvg-name="CineLife" tvg-logo="https://cinelife.com/wp/wp-content/uploads/2025/08/cinelife_logo.png" group-title=“Movies”,CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Lifetime Movies" tvg-name="Lifetime Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2880px-Logo_Lifetime_2020.svg.png" group-title=“Movies”,Lifetime Movies
 https://amg00276-aenetwork-amg00276c21-lg-gb-5291.playouts.now.amagi.tv/playlist.m3u8
 
