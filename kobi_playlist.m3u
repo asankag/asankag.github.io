@@ -11,6 +11,9 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.ndtvlanka.lk/wp-content/uploads/2022/10/logo-ndtv.png" group-title="Sri Lanka",NDTVLANKA
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://talenttv.lk/logo-footer.png" group-title="Sri Lanka",Talent TV
+http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
+
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="Star Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png" group-title=“Sport”,Star Sports HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
@@ -37,6 +40,12 @@ https://amg12058-amg12058c6-firetv-us-5955.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="T2 Tennis Channel" tvg-name="T2 Tennis Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1024px-Tennis_Channel_logo.svg.png" group-title=“Sport”,T2 Tennis Channel
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis Channel (UK)" tvg-name="Tennis Channel (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png" group-title=“Sport”,Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis+" tvg-name="Tennis+" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tc-logo-plus.png" group-title=“Sport”,Tennis+
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trace Sport Stars" tvg-name="Trace Sport Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title=“Sport”,Trace Sport Stars
 https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
@@ -109,8 +118,6 @@ https://amg01258-raycom-amg01258c1-xiaomi-international-907.playouts.now.amagi.t
 https://amg01074-fueltv-fueltv-uk-en-xiaomi-v5i6i.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png"  group-title=“NEWS”, BBC World News
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 
@@ -119,6 +126,9 @@ http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="Reuters TV" tvg-name="NBC Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/500px-Reuters_TV_logo.png" group-title=“NEWS”,Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/500px-CNN_Logo_%282014%29.svg.png"  group-title=“NEWS”, CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="https://lh3.googleusercontent.com/xdk5Ey-Y8H6I76dFrANJDbyMj8iziNylGlxLzsUj7fLSTf8VIY6sShh7fU4xNgKfLZYiTIzJ6JN4rVMry--7frqbazkU1WBYL4tloryu5YKCmLGY_4UZ=h60"  group-title=“NEWS”,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
@@ -135,8 +145,8 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/1920px-CNBC_2023.svg.png"  group-title=“NEWS”,CNBC
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox NEWS” tvg-name="Fox NEWS” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png"  group-title=“NEWS”,Fox NEWS
-http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="KTTV” tvg-name="KTTV” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/500px-Fts-los-angeles-a.svg.png"  group-title=“NEWS”,KTTV
+http://origin.thetvapp.to/hls/fox-kttv-los-angeles-ca/mono.m3u8
 
 #EXTINF:-1 tvg-id="CBS news" tvg-name="CBS news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CBS_News_2020_%28Stacked_II%29.svg/2560px-CBS_News_2020_%28Stacked_II%29.svg.png"  group-title=“NEWS”, CBS news
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/5ff01ad6-e3cc-4431-aeca-f032606a41f2:MRN2/variant/df9d5f9fc8201f0878fd4a77927eea3b/bandwidth/3016996.m3u8
@@ -211,6 +221,9 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 
 #EXTINF:-1 tvg-id="Lifetime Movies" tvg-name="Lifetime Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2880px-Logo_Lifetime_2020.svg.png" group-title=“Movies”,Lifetime Movies
 https://amg00276-aenetwork-amg00276c21-lg-gb-5291.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere" tvg-name="MovieSphere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MovieSphere_Gold_2025_logo.svg/500px-MovieSphere_Gold_2025_logo.svg.png" group-title=“Movies”,MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMC All Reality" tvg-name="AMC All Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/AMC_Networks_2021_logo.svg/2880px-AMC_Networks_2021_logo.svg.png" group-title=“Movies”,AMC All Reality
 https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
