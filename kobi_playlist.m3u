@@ -117,6 +117,9 @@ https://amg01258-raycom-amg01258c1-xiaomi-international-907.playouts.now.amagi.t
 #EXTINF:-1 tvg-id="Fuel TV" tvg-name="Fuel TV" tvg-logo="https://fuel.tv/images/find-us/fuel_tv_plus_150.png" group-title=“Travel”,Fuel TV
 https://amg01074-fueltv-fueltv-uk-en-xiaomi-v5i6i.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Drive + Speed" tvg-name="Drive + Speed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Speed_Channel.svg/960px-Speed_Channel.svg.png" group-title=“Travel”,Drive + Speed
+https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png"  group-title=“NEWS”, BBC World News
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
@@ -155,6 +158,9 @@ https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/5ff01ad
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-1 tvg-id="BBC One UK” tvg-name="BBC One UK” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png"  group-title=“NEWS”,BBC One UK
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+
+#EXTINF:-1 tvg-id="True History Channel” tvg-name="True History Channel” tvg-logo="data:image/png;base64,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"  group-title=“Documentry”,True History Channel
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 
 
@@ -294,7 +300,8 @@ https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="Documentary+" tvg-name="Documentary+" tvg-logo="https://gizmeon.mdc.akamaized.net/PUB-50158/config/1762855496775.png" group-title=“Life Style”,Documentary+
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Life Downunder" tvg-name="Life Downunder" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“Life Style”,Life Downunder
 https://wtfn-lifedownunder-2-ie.lg.wurl.tv/playlist.m3u8
@@ -319,6 +326,9 @@ https://jmp2.uk/stvp-USBB520002173
 
 #EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,FOX Sports
 https://jmp2.uk/stvp-US2700001QY
+
+#EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,FOX Sports
+https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX SOUL" tvg-name="FOX SOUL" tvg-logo="https://wtfn.com/wp-content/uploads/2023/07/result-2.png" group-title=“History”,FOX SOUL
 https://jmp2.uk/stvp-USBA300032J7
@@ -627,3 +637,24 @@ https://livetv-fa.tubi.video/wbd-welcome-home/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XploreTV.us",Xplore (720p)
 https://aegis-cloudfront-1.tubi.video/4cfc30dc-1431-46b6-aea7-89a2e7d35823/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Popflix (720p)
+https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK",Rakuten Top Movies UK (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK",Rakuten TV Action Movies UK (1080p)
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK",Rakuten TV Comedy Movies UK (1080p)
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK",Rakuten TV Drama Movies UK (1080p)
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK",Rakuten TV Family Movies UK (1080p)
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-id="",Rakuten TV Reality UK (1080p)
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:-1 tvg-id="",Rakuten TV Romance Movies UK (1080p)
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 tvg-id="",Rakuten TV Sci-Fi UK (1080p)
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+#EXTINF:-1 tvg-id="",Rakuten TV Thrillers UK (1080p)
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
