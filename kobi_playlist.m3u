@@ -298,6 +298,8 @@ https://amg00721-inverleigh-unbeatengb-lggb-5zrkt.amagi.tv/ts-eu-w1-n2/playlist/
 #EXTINF:-1 tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="https://unbeaten.com/assets/images/unbeaten-logo.png" group-title=“Life Style”,Unbeaten
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PBS History" tvg-name="PBS History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/500px-PBS_logo_2019.svg.png" group-title=“Life Style”,PBS History
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Documentary+" tvg-name="Documentary+" tvg-logo="https://gizmeon.mdc.akamaized.net/PUB-50158/config/1762855496775.png" group-title=“Life Style”,Documentary+
@@ -637,6 +639,12 @@ https://livetv-fa.tubi.video/wbd-welcome-home/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XploreTV.us",Xplore (720p)
 https://aegis-cloudfront-1.tubi.video/4cfc30dc-1431-46b6-aea7-89a2e7d35823/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aik News",Aik News
+https://video.primexsports.com/pnn/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",PBS Science (1080p)
+https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Popflix (720p)
 https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
